@@ -1,0 +1,57 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Smartphone",
+      "price": 499.99,
+      "description": "The latest and greatest smartphone with cutting-edge features. Stay connected with this amazing device.",
+      "image": "smartphone_image_url.jpg",
+      "prime": true,
+      "isAddedToCart": false
+    },
+    {
+      "id": 2,
+      "name": "Laptop",
+      "price": 1099.99,
+      "description": "Powerful laptop for all your computing needs. Perfect for work, gaming, and creativity.",
+      "image": "laptop_image_url.jpg",
+      "prime": false,
+      "isAddedToCart": false
+    },
+    {
+      "id": 3,
+      "name": "Headphones",
+      "price": 149.99,
+      "description": "High-quality wireless headphones for an immersive audio experience. Enjoy your music anywhere.",
+      "image": "headphones_image_url.jpg",
+      "prime": true,
+      "isAddedToCart": false
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "username": "mr_trotman",
+      "password": "your_secure_password",
+      "email": "mr.trotman@example.com"
+    }
+  ],
+  "orders": [
+    {
+      "id": 1,
+      "userId": 1,
+      "products": [
+        {
+          "productId": 1,
+          "quantity": 2
+        },
+        {
+          "productId": 3,
+          "quantity": 1
+        }
+      ],
+      "total": 1149.97,
+      "orderDate": "2023-11-25"
+    }
+  ]
+}
