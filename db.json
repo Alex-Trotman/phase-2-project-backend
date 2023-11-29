@@ -7,7 +7,7 @@
       "description": "The latest and greatest smartphone with cutting-edge features. Stay connected with this amazing device.",
       "image": "https://m.media-amazon.com/images/I/81T-FKC695L.__AC_SX300_SY300_QL70_FMwebp_.jpg",
       "prime": true,
-      "isAddedToCart": true,
+      "isAddedToCart": false,
       "rating": 4.5
     },
     {
