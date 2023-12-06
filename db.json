@@ -7,7 +7,7 @@
       "description": "The latest and greatest smartphone with cutting-edge features. Stay connected with this amazing device.",
       "image": "https://m.media-amazon.com/images/I/81T-FKC695L.__AC_SX300_SY300_QL70_FMwebp_.jpg",
       "prime": true,
-      "isAddedToCart": false,
+      "isAddedToCart": true,
       "rating": 4.5,
       "purchased": false
     },
@@ -18,7 +18,7 @@
       "description": "Powerful laptop for all your computing needs. Perfect for work, gaming, and creativity.",
       "image": "https://m.media-amazon.com/images/I/713rUA5MO-L.__AC_SX300_SY300_QL70_FMwebp_.jpg",
       "prime": false,
-      "isAddedToCart": false,
+      "isAddedToCart": true,
       "rating": 4.8,
       "purchased": false
     },
@@ -29,7 +29,7 @@
       "description": "High-quality wireless headphones for an immersive audio experience. Enjoy your music anywhere.",
       "image": "https://m.media-amazon.com/images/I/61z-rTknwVS.__AC_SX300_SY300_QL70_FMwebp_.jpg",
       "prime": true,
-      "isAddedToCart": false,
+      "isAddedToCart": true,
       "rating": 4.2,
       "purchased": false
     }
