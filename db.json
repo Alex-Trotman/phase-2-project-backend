@@ -7,7 +7,7 @@
       "description": "The latest and greatest smartphone with cutting-edge features. Stay connected with this amazing device.",
       "image": "https://m.media-amazon.com/images/I/81T-FKC695L.__AC_SX300_SY300_QL70_FMwebp_.jpg",
       "prime": true,
-      "isAddedToCart": true,
+      "isAddedToCart": false,
       "rating": 4.5,
       "purchased": false
     },
@@ -24,13 +24,35 @@
     },
     {
       "id": 3,
-      "name": "Headphones",
-      "price": 149.99,
-      "description": "High-quality wireless headphones for an immersive audio experience. Enjoy your music anywhere.",
-      "image": "https://m.media-amazon.com/images/I/61z-rTknwVS.__AC_SX300_SY300_QL70_FMwebp_.jpg",
+      "name": "Raspberry Pi 4 Computer Model B 8GBs",
+      "price": 82.65,
+      "description": "Raspberry Pi 4 Computer Model B 8GB Single Board Computer Suitable for Building Mini PC/Smart Robot/Game Console/Workstation/Media Center/Etc.",
+      "image": "https://m.media-amazon.com/images/I/61yQ17ipx5L._AC_SX679_.jpg",
       "prime": true,
       "isAddedToCart": false,
-      "rating": 4.2,
+      "rating": 4.7,
+      "purchased": false
+    },
+    {
+      "id": 4,
+      "name": "Sovol SV01 Pro 3D Printer",
+      "price": 249,
+      "description": "Sovol SV01 Pro 3D Printer with Metal Direct Drive Extruder CR-Touch Silent Board Dual Z-axis 4.3 inch Handheld Color Touch Screen Flexible Magnetic Plate, Larger Build Volume 280x240x300mm",
+      "image": "https://m.media-amazon.com/images/I/71IL5x0DExL._AC_SX679_.jpg",
+      "prime": true,
+      "isAddedToCart": false,
+      "rating": 3.8,
+      "purchased": false
+    },
+    {
+      "id": 5,
+      "name": "eSUN PLA+ Filament 1.75mm",
+      "price": 26.99,
+      "description": "eSUN PLA+ Filament 1.75mm, 3D Printer Filament PLA Plus, Dimensional Accuracy +/- 0.03mm, 1KG per Spool, 2 Spools 3D Printing Filament, Cold White + Black",
+      "image": "https://m.media-amazon.com/images/I/71098W-sxBL._SX522_.jpg",
+      "prime": true,
+      "isAddedToCart": false,
+      "rating": 4.4,
       "purchased": false
     }
   ],
@@ -60,27 +82,14 @@
       "orderDate": "2023-11-25"
     }
   ],
-  "cart": [
-    {}
-  ],
+  "cart": [{}],
   "reviews": [
     {
       "id": 1,
+      "user": "Anonymous",
       "product": "Smartphone",
       "rating": "⭐⭐⭐⭐⭐",
       "review": "adfasdf"
-    },
-    {
-      "id": 2,
-      "product": "Smartphone",
-      "rating": "⭐⭐⭐⭐⭐",
-      "review": "asdfasdfa"
-    },
-    {
-      "id": 3,
-      "product": "Headphones",
-      "rating": "⭐⭐",
-      "review": "It works!!!!"
     }
   ]
 }
