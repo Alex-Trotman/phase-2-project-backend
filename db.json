@@ -2,24 +2,24 @@
   "products": [
     {
       "id": 1,
-      "name": "Smartphone",
-      "price": 499.99,
-      "description": "The latest and greatest smartphone with cutting-edge features. Stay connected with this amazing device.",
-      "image": "https://m.media-amazon.com/images/I/81T-FKC695L.__AC_SX300_SY300_QL70_FMwebp_.jpg",
+      "name": "Google Pixel 7a",
+      "price": 499,
+      "description": "Google Pixel 7a - Unlocked Android Cell Phone - Smartphone with Wide Angle Lens and 24-Hour Battery - 128 GB – Charcoal",
+      "image": "https://m.media-amazon.com/images/I/61r7cCpQPlL._AC_SX679_.jpg",
       "prime": true,
       "isAddedToCart": false,
-      "rating": 4.5,
+      "rating": 4.2,
       "purchased": false
     },
     {
       "id": 2,
-      "name": "Laptop",
-      "price": 1099.99,
-      "description": "Powerful laptop for all your computing needs. Perfect for work, gaming, and creativity.",
-      "image": "https://m.media-amazon.com/images/I/713rUA5MO-L.__AC_SX300_SY300_QL70_FMwebp_.jpg",
+      "name": "HP Victus 15 Gaming Laptop",
+      "price": 595.99,
+      "description": "HP Victus 15 Gaming Laptop, 15.6\" FHD 144Hz Display, AMD Ryzen 5 7535HS, 16GB DDR5 RAM, 1TB PCIe M.2 SSD, NVIDIA GeForce RTX 2050, HDMI, Webcam, Backlit Keyboard, Wi-Fi 6, Windows 11 Home, Silver",
+      "image": "https://m.media-amazon.com/images/I/71juF7A+MsL._AC_SX679_.jpg",
       "prime": false,
       "isAddedToCart": false,
-      "rating": 4.8,
+      "rating": 4.3,
       "purchased": false
     },
     {
@@ -54,42 +54,54 @@
       "isAddedToCart": false,
       "rating": 4.4,
       "purchased": false
-    }
-  ],
-  "users": [
+    },
     {
-      "id": 1,
-      "username": "mr_trotman",
-      "password": "your_secure_password",
-      "email": "mr.trotman@example.com"
+      "id": 6,
+      "name": "!False - Programmer Coding Code Coder Software T-Shirt",
+      "price": 19.99,
+      "description": "!False - Programmer Coding Code Coder Software T-Shirt",
+      "image": "https://m.media-amazon.com/images/I/A13usaonutL._CLa%7C2140%2C2000%7C51vP%2BZMvClL.png%7C0%2C0%2C2140%2C2000%2B0.0%2C0.0%2C2140.0%2C2000.0_AC_SX679_.png",
+      "prime": true,
+      "isAddedToCart": false,
+      "rating": 4.5,
+      "purchased": false
     }
   ],
-  "orders": [
-    {
-      "id": 1,
-      "userId": 1,
-      "products": [
-        {
-          "productId": 1,
-          "quantity": 2
-        },
-        {
-          "productId": 3,
-          "quantity": 1
-        }
-      ],
-      "total": 1149.97,
-      "orderDate": "2023-11-25"
-    }
-  ],
-  "cart": [{}],
   "reviews": [
     {
       "id": 1,
-      "user": "Anonymous",
-      "product": "Smartphone",
+      "user": "Leonardo",
+      "product": "eSUN PLA+ Filament 1.75mm",
+      "rating": "⭐⭐⭐⭐",
+      "review": "Consistent PLA+ filament across variety of colors. I've been using eSUN PLA+ for about a year now with a number of spools under my belt, all of varying colors. The best part is overall consistency - every spool prints nearly identically with perhaps a bit of variation when it comes to stringing. I don't store PLA/PLA+ in a low humidity setting when not printing and observed minimal moisture absorption - so that's definitely a plus!  The one issue I have observed is some mechanical stress from being spooled up causing it to snap before being fed to the extruder. It's a bit annoying if you dont catch it before you start your print, but good news is that it happens either at the filament detection sensor or where its being fed into the extruder so just make sure to check before starting your print."
+    },
+    {
+      "id": 2,
+      "user": "Kyle H.",
+      "product": "Sovol SV01 Pro 3D Printer",
       "rating": "⭐⭐⭐⭐⭐",
-      "review": "adfasdf"
+      "review": "Great print quality, Easy to put together, and competitively priced.  I bought this machine last week after reading many positive reviews and after a quick and easy set up I was off and printing. The assembly was easy and only takes a few screws to attach the main gantry to the base of the unit. Once assembled you will attach the LCD panel, and affix all the cables to the proper stepper motors and sensors (these are all labeled with a yellow clip for convenience). The frame of this machine is rock solid and is the basic frame set up used by other companies such as Creality, Anycubic, and Artillery which means parts are available if anything ever needed to be replaced."
+    },
+    {
+      "id": 3,
+      "user": "Randy",
+      "product": "Sovol SV01 Pro 3D Printer",
+      "rating": "⭐⭐⭐⭐⭐",
+      "review": "Great printer to add to your fleet!  I've owned this machine for almost a year now, and its really done a great job . After a month or so of using the stock firmware, I grabbed one of my spare raspberry pi's and flashed the Klipper firmware onto the printer.  The SV01 Pro is easily moddable and there are some different upgrade paths available online. I've upgraded my extruder to a Biqu H2V2 with the MAD Overkill cooling mod. Combine all of that with the Klipper upgrade, its really a solid machine. Soon I'll be upgrading to both linear rails for the X and Y axis to replace the gantry and bed wheels."
+    },
+    {
+      "id": 4,
+      "user": "Serhii Semidotskyi",
+      "product": "Google Pixel 7a",
+      "rating": "⭐⭐⭐⭐⭐",
+      "review": "A reliable device with many features. Speed and lack of unnecessary add-ons typical of Chinese and Korean smartphones. Pure Android. High quality photos in the most difficult conditions."
+    },
+    {
+      "id": 5,
+      "user": "Bradley Cooper",
+      "product": "!False - Programmer Coding Code Coder Software T-Shirt",
+      "rating": "⭐⭐⭐⭐",
+      "review": "Short. Comfortable but length is short."
     }
   ]
 }
