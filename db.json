@@ -31,7 +31,7 @@
       "prime": true,
       "isAddedToCart": false,
       "rating": 4.7,
-      "purchased": true
+      "purchased": false
     },
     {
       "id": 4,
@@ -64,7 +64,7 @@
       "prime": true,
       "isAddedToCart": false,
       "rating": 4.5,
-      "purchased": true
+      "purchased": false
     }
   ],
   "reviews": [
