@@ -7,7 +7,7 @@
       "description": "Google Pixel 7a - Unlocked Android Cell Phone - Smartphone with Wide Angle Lens and 24-Hour Battery - 128 GB – Charcoal",
       "image": "https://m.media-amazon.com/images/I/61r7cCpQPlL._AC_SX679_.jpg",
       "prime": true,
-      "isAddedToCart": false,
+      "isAddedToCart": true,
       "rating": 4.2,
       "purchased": false
     },
@@ -29,7 +29,7 @@
       "description": "Raspberry Pi 4 Computer Model B 8GB Single Board Computer Suitable for Building Mini PC/Smart Robot/Game Console/Workstation/Media Center/Etc.",
       "image": "https://m.media-amazon.com/images/I/61yQ17ipx5L._AC_SX679_.jpg",
       "prime": true,
-      "isAddedToCart": false,
+      "isAddedToCart": true,
       "rating": 4.7,
       "purchased": false
     },
@@ -62,7 +62,7 @@
       "description": "!False - Programmer Coding Code Coder Software T-Shirt",
       "image": "https://m.media-amazon.com/images/I/A13usaonutL._CLa%7C2140%2C2000%7C51vP%2BZMvClL.png%7C0%2C0%2C2140%2C2000%2B0.0%2C0.0%2C2140.0%2C2000.0_AC_SX679_.png",
       "prime": true,
-      "isAddedToCart": false,
+      "isAddedToCart": true,
       "rating": 4.5,
       "purchased": false
     }
